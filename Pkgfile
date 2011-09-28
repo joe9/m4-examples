@@ -1,6 +1,5 @@
-# Description: A standard Unix macro processor with extensions & examples
-# URL:         https://github.com/joe9/m4-with-examples built on top of
-#                 http://www.seindal.dk/rene/gnu/
+# Description: Examples for the standard Unix macro processor
+# URL:         https://github.com/joe9/m4-examples
 # Maintainer:  Joe9, joe9mail at gmail dot com
 
 name=m4-examples
